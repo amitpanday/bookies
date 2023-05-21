@@ -59,3 +59,9 @@ To learn React Native, check out the [React-Native documentation.](https://react
 
 
 ## Screen Shot
+
+![](https://github.com/amitpanday/bookies/blob/main/screenshot/search_screen.png?raw=true)
+![](https://github.com/amitpanday/bookies/blob/main/screenshot/load_more_search.png?raw=true)
+![](https://github.com/amitpanday/bookies/blob/main/screenshot/favorite_Screen.png?raw=true|width=10)
+![](https://github.com/amitpanday/bookies/blob/main/screenshot/favorite_list.png?raw=true)
+
